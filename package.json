@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^10.7.1",
+    "firebase-tools": "^13.0.0",
+    "node-schedule": "^2.1.1"
+  },
+  "script": {
+    "start": "node app.js"
+  },
+  "start": "node app.js"
+}
